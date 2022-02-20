@@ -1,5 +1,5 @@
 /**
- * Java 1. Homework 2.
+ * Java 1. Homework 4.
  *
  * @author Daria
  * @version 20.02.2022
