@@ -1,3 +1,9 @@
+/**
+ * Java 1. Homework 5.
+ *
+ * @author Daria
+ * @version 23.02.2022
+ */
 class Employee {
     private String fullname;
     private String position;

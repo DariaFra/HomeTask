@@ -1,4 +1,9 @@
-import java.util.Arrays;
+/**
+ * Java 1. Homework 5.
+ *
+ * @author Daria
+ * @version 23.02.2022
+ */
 
 class HomeWork5 {
     public static void main(String[] args) {
