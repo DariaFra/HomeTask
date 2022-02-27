@@ -1,3 +1,9 @@
+/**
+ * Java 1. Homework 6.
+ *
+ * @author Daria
+ * @version 27.02.2022
+ */
 abstract class Animal implements IAnimal {
     protected String animalType;
     protected int maxRun;
