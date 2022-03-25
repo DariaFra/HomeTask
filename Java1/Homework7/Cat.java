@@ -16,6 +16,7 @@ class Cat {
     }
 
     public String getName() {
+
         return name;
     }
 
@@ -46,6 +47,7 @@ class Cat {
 
     @Override
     public String toString() {
+
         return "Cat: " + name + ", appetite " + appetite;
     }
 }

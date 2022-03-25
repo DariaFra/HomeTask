@@ -8,18 +8,22 @@ class Plate {
     private int food;
 
     Plate(int food) {
+
         this.food = food;
     }
 
     void decreaseFood(int food) {
+
         this.food -= food;
     }
 
     void increaseFood(int food) {
+
         this.food += food;
     }
 
     public int getFood() {
+
         return food;
     }
 
